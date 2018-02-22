@@ -11,8 +11,8 @@ export default class Testing extends Component {
     render() {
         return (
             <div>
-                <button onClick={this.props.testAction}>click me</button>
-                <Link to="/">Back </Link>
+                <h1>tesing one page</h1>
+
             </div>
         );
     }
