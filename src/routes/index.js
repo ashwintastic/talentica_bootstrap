@@ -1,5 +1,6 @@
 import Testing from '../containers/testingContainer';
-import TestingOne from '../component/TestingOne'
+import TestingOne from '../component/TestingOne';
+import TestingTwo from '../component/TestingTwo';
 const routes = [
 
     {
@@ -10,6 +11,10 @@ const routes = [
     {
         url: '/testing1',
         component: TestingOne
+    },
+    {
+        url: '/testing2',
+        component: TestingTwo
     }
 
 

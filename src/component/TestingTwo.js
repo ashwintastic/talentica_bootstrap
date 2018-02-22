@@ -11,7 +11,7 @@ export default class Testing extends Component {
     render() {
         return (
             <div>
-                <h1>tesing one page</h1>
+                <h1>tesing two page</h1>
                 <Link to="/" >back</Link>
             </div>
         );

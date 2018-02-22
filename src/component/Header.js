@@ -16,7 +16,7 @@ export default class Header extends Component {
                 </header>
                 <Link to="/testing" >Link 1</Link><br/>
                 <Link to="/testing1" >Link 2</Link><br/>
-                <Link to="/" >back</Link>
+                <Link to="/testing2" >Link 3</Link><br/>
                 {this.props.children}
             </div>
 
